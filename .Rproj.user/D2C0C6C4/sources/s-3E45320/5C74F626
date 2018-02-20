@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519143906397.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C74F626",
+    "lastKnownWriteTime" : 1519144739,
+    "last_content_update" : 1519145858467,
+    "path" : "C:/Users/Francisco/Desktop/francisco_qp shit/diagnostics/scripts/my_script.R",
+    "project_path" : "scripts/my_script.R",
+    "properties" : {
+        "cursorPosition" : "36,25",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
